@@ -1,0 +1,138 @@
+#+TITLE: Dmitriy Non
+
+# #+INCLUDE: "code.org"
+
+* Contact info
+
+- [[mailto:mail@nondv.io][mail@nondv.io]]
+- [[mailto:non.dmitriy@gmail.com][non.dmitriy@gmail.com]]
+- [[https://telegram.me/Nondv][Telegram]]
+- [[https://github.com/Nondv][Github]]
+- St. Petersburg, Russia
+
+* About me
+
+Software developer interested in Ruby, Clojure and FP.
+
+* Work experience
+
+** Full-stack Ruby on Rails Developer
+
+[[https://insales.ru][InSales]] 2016-08-01 - present
+
+- Participating in development of main product - SaaS-platform for
+  creating online stores (like Shopify)
+- Development of helpdesk system for InSales from scratch (mostly): [[https://tickets.insales.ru]].
+  Tools:
+  - Ruby on Rails 5
+  - Postgresql
+  - EcmaScript 6
+  - Webpack
+  - React.js
+  - Gitlab with CI
+  - Docker (locally)
+
+** Full-stack Ruby on Rails Developer
+
+[[http://lakehouse.ru][Lakehouse]] March 2016 - July 2016
+
+- The only developer on legacy-project for L'Oreal (logistics system).
+  Tools:
+  - Ruby on Rails 4
+  - Postgresql
+  - JQuery
+  - React.js (on some pages)
+- Participating in development of some others' clients Rails projects.
+- Development and integration of company's own product: [[http//www.o-din.ru][ODIN]].
+  Tools:
+  - Ruby on Rails 4
+  - Postgresql
+  - Angular 1
+
+** Junior Ruby developer
+
+PROF-IT (bankrupted) October 2015 - March 2016
+
+- Developer of inner gem for working with Redmine via ActiveResource
+- Backend developer of GIS-application (never published because of bankrupcy).
+  Tools:
+  - Sinatra
+  - Geoserver
+  - ArcGIS
+  - Ember.js
+  - Leaflet.js
+
+** Junior PHP-developer
+
+[[https://qsoft.ru][QSOFT]] (October 2014 - May 2015)
+
+Framework: 1C-Bitrix
+
+- [[http://shop.mts.ru/][MTS-shop]]
+- [[http://www.rostelecom.ru/][Rostelecom website]]
+- Rostelecom's [[http://www.azbukainterneta.ru][Azbuka Interneta]] - online computer skills learning for eldery people
+- Rostelecom Timeline (currenty unavailable)
+
+* Skills summary
+
+Every list ordered by descendence of experience/knowledge.
+
+** Backend
+
+- Ruby on Rails
+- Sinatra
+- Clojure + Ring + Compojure (home projects, never in production)
+
+** Testing
+
+- RSpec
+- Capybara
+- Minitest (for personal purposes)
+
+** Frontend
+
+- ES6/JavaScript/CoffeeScript
+- React.js
+- JQuery
+- HTML/Slim
+- Angular.js (ver. 1)
+- Ember.js (played with)
+
+** Programming languages
+
+- Ruby
+- ES6
+- JavaScript
+- Clojure (hobby, pretty passionate)
+- CoffeeScript (because I am a Rails-developer)
+- PHP - a little experience
+- Java - played with Android back in high shool
+- Python, Perl, C/C++ - used back in high school and university.
+
+** Database
+
+- Postgresql (work experience)
+- Mongodb (played with Clojure)
+
+** Other
+
+- Emacs
+- git
+- bash
+- Heroku (hobby)
+- Redmine (+ API)
+- nginx (deployed helpy.io on DigitalOcean for L'Oreal)
+- Platforms: Mac OS (currenty), Linux (Ubuntu, ArchLinux)
+
+** Languages
+
+- Russian - native speaker.
+- English - can read literature, and understand other people (or watch a movie :D)
+
+* Education
+
+Studied Software Engineering in Moscow Aviation Institute ([[http://www.mai.ru][MAI]])
+but never graduate, so I don't have one.
+
+- Moscow Aviation Institute (from 2014 to 2016) Faculty of control systems,
+  informatics and electropower - Software Engineering
