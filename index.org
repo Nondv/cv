@@ -8,6 +8,8 @@
 - [[mailto:non.dmitriy@gmail.com][non.dmitriy@gmail.com]]
 - [[https://telegram.me/Nondv][Telegram]]
 - [[https://github.com/Nondv][Github]]
+- [[http://nondv.wtf][This CV]]
+- [[http://nondv.io][Blog]] (in russian)
 - St. Petersburg, Russia
 
 * About me
