@@ -5,4 +5,4 @@ This repository contains my CV written via Emacs
 
 File index.org exported to HTML via
 [ox-twbs](https://github.com/marsmining/ox-twbs) and hosted via
-[Github pages](https://github.io).
+[Github pages](https://github.io) on [nondv.wtf](http://nondv.wtf).
