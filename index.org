@@ -5,16 +5,27 @@
 * Contact info
 
 - [[mailto:mail@nondv.io][mail@nondv.io]]
-- [[mailto:non.dmitriy@gmail.com][non.dmitriy@gmail.com]]
 - [[https://telegram.me/Nondv][Telegram]]
 - [[https://github.com/Nondv][Github]]
+- [[https://stackoverflow.com/users/3891844/nondv][StackOverflow]]
 - [[http://nondv.wtf][This CV]]
 - [[http://nondv.io][Blog]] (in russian)
 - St. Petersburg, Russia
 
 * About me
 
-Software developer interested in Ruby, Clojure and FP.
+Software developer from Russia. I am passionate about software design and
+functional programming in particular. I am lucky to work with Ruby because it's
+my favorite programming language. Also I love Clojure (and lisps in general).
+I am focused mostly on code quality and sofware design in general rather than
+particular technologies.
+
+Things I appreciate and/or respect in software development:
++ Functional programming
++ OOP
++ SOLID
++ KISS principle
++ TDD
 
 * Work experience
 
@@ -24,28 +35,47 @@ Software developer interested in Ruby, Clojure and FP.
 
 - Participating in development of main product - SaaS-platform for
   creating online stores (like Shopify)
-- Development of helpdesk system for InSales from scratch (mostly): [[https://tickets.insales.ru]].
-  Tools:
-  - Ruby on Rails 5
+- Development of helpdesk system for InSales from scratch (mostly).
+  This is a SPA react application talking to Rails 5 backend. The main goal of a
+  project was (and is) gaining control over helpdesk system (which we couldnt
+  get with Omnidesk and Zendesk we used before). With our own helpdesk can tweak
+  whatever we (mostly, our support team) want: telegram notifications,
+  statistics, integration with InSales. And there're many plans on future of the
+  project making it more than helpdesk system.
+  Tools I used:
+  - Ruby on Rails 5 (API)
   - Postgresql
+  - Pundit
   - EcmaScript 6
   - Webpack
   - React.js
   - Gitlab with CI
-  - Docker (locally)
+  - Docker (locally and in CI)
+- Development of external application integrated with InSales that allows some
+  of insales shops become resellers for another insales shops. Basically, it is
+  supplier-reseller relationship app. It is not yet released but in active
+  development and there're pool of interested customers that are trying it
+  out. Tools:
+  - Ruby on Rails 5
+  - Postgresql
+  - Pundit
+  - Bootstrap for the moment
+  - Gitlab with CI
+  - Docker (locally, in CI and on production, though I am not responsible for
+    production envorironment).
 
 ** Full-stack Ruby on Rails Developer
 
 [[http://lakehouse.ru][Lakehouse]] March 2016 - July 2016
 
-- The only developer on legacy-project for L'Oreal (logistics system).
+- The only developer on a legacy-project for L'Oreal (logistics system).
   Tools:
   - Ruby on Rails 4
   - Postgresql
   - JQuery
   - React.js (on some pages)
 - Participating in development of some others' clients Rails projects.
-- Development and integration of company's own product: [[http//www.o-din.ru][ODIN]].
+- Development and integration of company's own product: [[http://www.o-din.ru][ODIN]]
   Tools:
   - Ruby on Rails 4
   - Postgresql
@@ -77,11 +107,12 @@ Framework: 1C-Bitrix
 
 * Skills summary
 
-Every list ordered by descendence of experience/knowledge.
+Every list somewhat ordered by descendence of experience/knowledge.
 
 ** Backend
 
 - Ruby on Rails
+- Pundit
 - Sinatra
 - Clojure + Ring + Compojure (home projects, never in production)
 
@@ -89,7 +120,7 @@ Every list ordered by descendence of experience/knowledge.
 
 - RSpec
 - Capybara
-- Minitest (for personal purposes)
+- Minitest
 
 ** Frontend
 
@@ -121,6 +152,7 @@ Every list ordered by descendence of experience/knowledge.
 - Emacs
 - git
 - bash
+- tmux
 - Heroku (hobby)
 - Redmine (+ API)
 - nginx (deployed helpy.io on DigitalOcean for L'Oreal)
@@ -129,12 +161,5 @@ Every list ordered by descendence of experience/knowledge.
 ** Languages
 
 - Russian - native speaker.
-- English - can read literature, and understand other people (or watch a movie :D)
+- English - good enough (I guess)
 
-* Education
-
-Studied Software Engineering in Moscow Aviation Institute ([[http://www.mai.ru][MAI]])
-but never graduate, so I don't have one.
-
-- Moscow Aviation Institute (from 2014 to 2016) Faculty of control systems,
-  informatics and electropower - Software Engineering
