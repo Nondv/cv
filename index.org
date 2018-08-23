@@ -1,7 +1,5 @@
 #+TITLE: Dmitriy Non
 
-# #+INCLUDE: "code.org"
-
 #+attr_html: :width 250px
 [[./photo.png]]
 
