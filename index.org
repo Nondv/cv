@@ -2,6 +2,9 @@
 
 # #+INCLUDE: "code.org"
 
+#+attr_html: :width 250px
+[[./photo.png]]
+
 * Contact info
 
 - [[mailto:mail@nondv.io][mail@nondv.io]]
