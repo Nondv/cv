@@ -30,9 +30,11 @@ Things I appreciate and/or respect in software development:
 
 * Work experience
 
-** Full-stack Ruby on Rails Developer
+**  [[https://insales.ru][InSales]]
 
-[[https://insales.ru][InSales]] 2016-08-01 - present
+/Full-stack Ruby on Rails Developer/ \\
+/2016-08-01 - present/
+
 
 - Participating in development of main product - SaaS-platform for
   creating online stores (like Shopify)
@@ -68,9 +70,11 @@ Things I appreciate and/or respect in software development:
   - Docker (locally, in CI and on production, though I am not responsible for
     production envorironment).
 
-** Full-stack Ruby on Rails Developer
+** [[http://lakehouse.ru][Lakehouse]]
 
-[[http://lakehouse.ru][Lakehouse]] March 2016 - July 2016
+/Full-stack Ruby on Rails Developer/ \\
+/March 2016 - July 2016/
+
 
 - The only developer on a legacy-project for L'Oreal (logistics system).
   Tools:
@@ -85,9 +89,10 @@ Things I appreciate and/or respect in software development:
   - Postgresql
   - Angular 1
 
-** Junior Ruby developer
+** PROF-IT
 
-PROF-IT (bankrupted) October 2015 - March 2016
+/Junior Ruby developer/ \\
+/October 2015 - March 2016/
 
 - Developer of inner gem for working with Redmine via ActiveResource
 - Backend developer of GIS-application (never published because of bankrupcy).
@@ -98,9 +103,11 @@ PROF-IT (bankrupted) October 2015 - March 2016
   - Ember.js
   - Leaflet.js
 
-** Junior PHP-developer
+** [[https://qsoft.ru][QSOFT]]
 
-[[https://qsoft.ru][QSOFT]] (October 2014 - May 2015)
+/Junior PHP-developer/ \\
+/October 2014 - May 2015/
+
 
 Framework: 1C-Bitrix
 
