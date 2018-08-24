@@ -9,8 +9,10 @@
 - [[https://telegram.me/Nondv][Telegram]]
 - [[https://github.com/Nondv][Github]]
 - [[https://stackoverflow.com/users/3891844/nondv][StackOverflow]]
-- [[http://nondv.wtf][This CV]]
+- Skype: [[https://join.skype.com/invite/gd1yEEPIrtXg][nondim]]
+- [[https://habr.com/users/Nondv/][habr]]
 - [[http://nondv.io][Blog]] (in russian)
+- [[http://nondv.wtf][This CV]]
 - St. Petersburg, Russia
 
 * About me
