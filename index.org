@@ -50,6 +50,9 @@ Things I appreciate and/or respect in software development:
   - EcmaScript 6
   - Webpack
   - React.js
+  - Redux.js
+  - Chart.js
+  - Sass
   - Gitlab with CI
   - Docker (locally and in CI)
 - Development of external application integrated with InSales that allows some
