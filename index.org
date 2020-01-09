@@ -1,6 +1,6 @@
-#+TITLE: Dmitriy Non
+#+TITLE: Dmitry Non
 
-#+attr_html: :width 250px
+#+attr_html: :width 200px
 [[./photo.png]]
 
 * Contact info
@@ -13,41 +13,85 @@
 - [[https://habr.com/users/Nondv/][habr]]
 - [[http://nondv.io][Blog]] (in russian)
 - [[http://nondv.wtf][This CV]]
-- St. Petersburg, Russia
+- W4, London, UK
 
-* About me
+* Bio
 
-Software developer from Russia. I am passionate about software design and
-functional programming in particular. I am lucky to work with Ruby because it's
-my favorite programming language. Also I love Clojure (and lisps in general).
-I am focused mostly on code quality and sofware design in general rather than
-particular technologies.
+Originally from Russia. Started doing programming at 14, mostly competitive programming
+(still remember some data structures and algorithms from that time :D).
 
-Things I appreciate and/or respect in software development:
-+ Functional programming
-+ OOP
-+ SOLID
-+ KISS principle
-+ TDD
+Got my first job in the beginning of my first university year as PHP-developer.
+
+Switched to Ruby accidentially (funny story, actually) and fell in love with the language
+and object-oriented design. Got lucky enough to *not* start ruby career with rails.
+Was working on inner CLI in pure ruby + thor (cli framework).
+
+During the boom of popularity of functional programming I, naturally, got interested in it.
+Good thing that smart people from all around the world adapted techniques form it to our
+everyday object-oriented problems. Really enjoying looking at software design and development
+from another perspective (which is why we should study paradigms, not languages).
+
+As a developer I prefer learning ideas instead of technologies. I love SOLID principles
+and how it's /kind of/ in a little war with the KISS principle. I appreciate TDD even though
+I hate writing tests. I find it crazy fun and enjoyable to do interactive programming (hello lisps).
+Of course, as a ruby developer I love OOP. And I am passionate about functional programming (but who isn't?).
+
+* You should contact me if...
+
+- The job benefits the humanity
+- The project uses interesting technologies that can provide me with another perspective
+  on software design.
+- The company pays a lot ;)
+
+Bear in mind I am russian citizen atm so I require a UK visa sponsorship.
+
+** Some things that could interest me at the moment
+
+- OCaml
+- Haskell
+- Staticly-typed languages in general (Golang sounds kinda interesting)
+- Medical startups (everyone want to make a difference in this world, don't they?)
+- Data analysis
+- Data science (have no experience whatsoever but sounds cool).
+- Remote work with ability to come to the office (visa sponsorship is a must, sadly).
+
 
 * Work experience
+
+** [[https://carwow.co.uk][carwow]]
+
+/Software Engineer/ \\
+/2019-02-04 - present/
+
+- Worked as a part of Used/Leasing team for half a year as a fullstack dev.
+  Did lots of feature AB-testing and consider the team and the company in general
+  to have succeeded in that.
+  Tools:
+  - Ruby on Rails (latest version for the time)
+  - Elm
+  - LaunchDarkly (feature flags and ab-testing)
+  - AppPhrase (for i18n)
+- Moved to car-data team which is focused on developing core data APIs
+  and uses Clojure for that.
+  Moved during active migration of APIs to an external application so my Rails expertise
+  was highly useful.
 
 **  [[https://insales.ru][InSales]]
 
 /Full-stack Ruby on Rails Developer/ \\
-/2016-08-01 - present/
+/2016-08-01 - 2019-01-19 (2 years 5 months)/
 
 
-- Participating in development of main product - SaaS-platform for
-  creating online stores (like Shopify)
-- Development of helpdesk system for InSales from scratch (mostly).
-  This is a SPA react application talking to Rails 5 backend. The main goal of a
-  project was (and is) gaining control over helpdesk system (which we couldnt
-  get with Omnidesk and Zendesk we used before). With our own helpdesk can tweak
-  whatever we (mostly, our support team) want: telegram notifications,
+- Worked on authorization system of the main product - SaaS-platform for
+  creating online shops (like Shopify)
+- Developed the helpdesk system for InSales from scratch (mostly).
+  It was a SPA react.js application with Rails 5 backend. The main goal of a
+  project was (and is) gaining control over helpdesk system (which we couldn't
+  get with Omnidesk and Zendesk we used before). With our own helpdesk we could tweak
+  whatever we (mostly, our support team) wanted: telegram notifications,
   statistics, integration with InSales. And there're many plans on future of the
   project making it more than helpdesk system.
-  Tools I used:
+  Tools used:
   - Ruby on Rails 5 (API)
   - Postgresql
   - Pundit
@@ -55,19 +99,18 @@ Things I appreciate and/or respect in software development:
   - Webpack
   - React.js
   - Redux.js
-  - Chart.js
+  - Chart.js (for visualising stats).
   - Sass
   - Gitlab with CI
   - Docker (locally and in CI)
-- Development of external application integrated with InSales that allows some
+- Developed an external application integrated with InSales that allows some
   of insales shops become resellers for another insales shops. Basically, it is
-  supplier-reseller relationship app. It is not yet released but in active
-  development and there're pool of interested customers that are trying it
-  out. Tools:
+  supplier-reseller relationship app. I left the company during beta-testing
+  over a pool of interested customerst. Tools:
   - Ruby on Rails 5
   - Postgresql
   - Pundit
-  - Bootstrap for the moment
+  - Bootstrap
   - Gitlab with CI
   - Docker (locally, in CI and on production, though I am not responsible for
     production envorironment).
@@ -75,7 +118,7 @@ Things I appreciate and/or respect in software development:
 ** [[http://lakehouse.ru][Lakehouse]]
 
 /Full-stack Ruby on Rails Developer/ \\
-/March 2016 - July 2016/
+/March 2016 - July 2016 (5 months)/
 
 
 - The only developer on a legacy-project for L'Oreal (logistics system).
@@ -84,8 +127,12 @@ Things I appreciate and/or respect in software development:
   - Postgresql
   - JQuery
   - React.js (on some pages)
-- Participating in development of some others' clients Rails projects.
-- Development and integration of company's own product: [[http://www.o-din.ru][ODIN]]
+- Helping with BAE development of some other clients'
+  Rails projects (mostly, typical rails stuff).
+- Development and integration of company's own product: [[http://www.o-din.ru][ODIN]].
+  Introduced utilising of Rails engines in order to share logic between different clients.
+  Before that there were three branches with customers' projects
+  with only root shared (old master).
   Tools:
   - Ruby on Rails 4
   - Postgresql
@@ -94,7 +141,7 @@ Things I appreciate and/or respect in software development:
 ** PROF-IT
 
 /Junior Ruby developer/ \\
-/October 2015 - March 2016/
+/October 2015 - March 2016 (6 months)/
 
 - Developer of inner gem for working with Redmine via ActiveResource
 - Backend developer of GIS-application (never published because of bankrupcy).
@@ -108,7 +155,7 @@ Things I appreciate and/or respect in software development:
 ** [[https://qsoft.ru][QSOFT]]
 
 /Junior PHP-developer/ \\
-/October 2014 - May 2015/
+/October 2014 - May 2015 (8 months)/
 
 
 Framework: 1C-Bitrix
@@ -127,7 +174,7 @@ Every list somewhat ordered by descendence of experience/knowledge.
 - Ruby on Rails
 - Pundit
 - Sinatra
-- Clojure + Ring + Compojure (home projects, never in production)
+- Clojure
 
 ** Testing
 
@@ -139,6 +186,7 @@ Every list somewhat ordered by descendence of experience/knowledge.
 
 - ES6/JavaScript/CoffeeScript
 - React.js
+- Elm
 - JQuery
 - HTML/Slim
 - Angular.js (ver. 1)
@@ -149,7 +197,9 @@ Every list somewhat ordered by descendence of experience/knowledge.
 - Ruby
 - ES6
 - JavaScript
-- Clojure (hobby, pretty passionate)
+- Clojure
+- Elm
+- OCaml (interested in it)
 - CoffeeScript (because I am a Rails-developer)
 - PHP - a little experience
 - Java - played with Android back in high shool
